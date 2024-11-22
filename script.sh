@@ -1,0 +1,1 @@
+scp "serverlog.txt" ""
